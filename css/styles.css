@@ -1,0 +1,8 @@
+.container {
+  grid-template-columns: auto;
+  grid-template-rows: 120px 300px 350px 350px 300px 300px 350px;
+}
+
+
+
+/* Break at 750px */
