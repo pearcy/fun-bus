@@ -1,6 +1,18 @@
 .container {
   grid-template-columns: auto;
   grid-template-rows: 120px 300px 350px 350px 300px 300px 350px;
+  max-width: 1140px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.header {
+  border-bottom: 2px solid lightgrey;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 
